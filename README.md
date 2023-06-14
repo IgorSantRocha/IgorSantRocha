@@ -7,7 +7,7 @@
 
 <h3 align="left">Linguagens e Ferramentas:</h3>
  
- -SQL Servewr
+ -SQL Server
  -HMTL
  -CSS
  -VBA
