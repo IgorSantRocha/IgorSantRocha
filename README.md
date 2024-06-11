@@ -18,4 +18,4 @@
  -Typebot
  -EvolutionAPI
  
- 
+ ![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?IgorSantRocha=UTILIZADOR&layout=compact&theme=dracula)
