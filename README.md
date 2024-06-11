@@ -1,5 +1,5 @@
 <h1 align="center">Oi 👋, eu sou Igor</h1>
-<h3 align="center">Apaixonado por Banco de dados e testes automatizados</h3>
+<h3 align="center">Apaixonado por Python, Automações e Bancos de Dados</h3>
 
 - 💬 Me pergunte sobre **SQL, VBA, Python (Django/FastAPI) , Typebot, EvolutionAPI**
 
