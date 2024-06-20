@@ -5,7 +5,7 @@
 
 - 📫 Fale comigo através de:   
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white&style=social)](https://api.whatsapp.com/send/?phone=5511972339756&text&type=phone_number&app_absent=0)
-  [![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igor77876@gmail.com)](mailto:igor77876@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/-Email_(igor77876@gmail.com)-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igor77876@gmail.com)](mailto:igor77876@gmail.com)
   [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-santos-b0b815247/)](https://www.linkedin.com/in/igor-santos-b0b815247/)
   [![GitHub](https://img.shields.io/github/followers/IgorSantRocha?label=follow&style=social)](https://github.com/IgorSantRocha)
   
