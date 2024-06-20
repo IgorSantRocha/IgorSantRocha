@@ -16,7 +16,7 @@
 
   
 </div>
-⚡ Curiosidade sobre mim: Toco Flauta Transversal, Clarinete Alto e Trombone. Também jogo vôlei regularmente.
+⚡ Curiosidade: Toco Flauta Transversal, Clarinete Alto e Trombone. Também jogo vôlei regularmente.
  
 <h2 align="center">⚒️ Linguagens e Ferramentas ⚒️</h2>
 <br/>
