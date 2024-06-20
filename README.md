@@ -3,15 +3,12 @@
 
 - 💬 Me pergunte sobre **SQL, VBA, Python (Django/FastAPI) , Typebot, EvolutionAPI**
 
-- 📫 Fale comigo através de :
-  <p align="left">
-  <a href="#" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:igor77876@gmail.com" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-santos-b0b815247" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send/?phone=5511972339756&text&type=phone_number&app_absent=0" alt="WhatsApp"/></a>
-</p>
+- 📫 Fale comigo através de:   
+  [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366.svg?style=for-the-badge&logo=WhatsApp&logoColor=white&style=social)](https://api.whatsapp.com/send/?phone=5511972339756&text&type=phone_number&app_absent=0)
+  [![Gmail Badge](https://img.shields.io/badge/-Email-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:igor77876@gmail.com)](mailto:igor77876@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/igor-santos-b0b815247/)](https://www.linkedin.com/in/igor-santos-b0b815247/)
+  [![GitHub](https://img.shields.io/github/followers/IgorSantRocha?label=follow&style=social)](https://github.com/IgorSantRocha)
+  
 
 ## Ferramentas e Tecnologias
 <div >
