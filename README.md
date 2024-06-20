@@ -31,7 +31,6 @@
   <img src="https://skillicons.dev/icons?i=go,nginx,docker" /><br>
 </div>
 <div>
-   <br>
    <h2 align="center">A persistência é a chave mestra para as portas do sucesso...</h2>
     
    ![](https://github-readme-streak-stats.herokuapp.com/?user=IgorSantRocha&theme=vue-dark&hide_border=false)<br/><br/><br/>
