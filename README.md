@@ -6,7 +6,7 @@
 
 <div align="center">
 
-💬 Me pergunte sobre **Python, SQL Server, VBA... ou outra coisa aqui:
+💬 Me pergunte sobre **Python, SQL Server, VBA... ou outra coisa** aqui:
 
 <div align="center"> 
   
