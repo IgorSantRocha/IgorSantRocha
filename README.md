@@ -5,6 +5,7 @@
 <h3 align="center">Um programador apaixonado por codificação, transformando pensamentos em pixels e funções.</h3>
 
 <div align="center">
+⚡ Curiosidade sobre mim: também sou produtor musical e cantor/compositor!
 
 💬 Me pergunte sobre **Python, SQL Server, VBA... ou outra coisa [aqui](https://github.com/IgorSantRocha/IgorSantRocha)**. Ou ainda:
 
@@ -16,7 +17,7 @@
 
   
 </div>
-
+⚡ Curiosidade sobre mim: Toco Flauta Transversal, Clarinete Alto e Trombone. Também jogo vôlei regularmente.
  
 <h2 align="center">⚒️ Linguagens e Ferramentas ⚒️</h2>
 <br/>
@@ -25,7 +26,7 @@
     <img src="https://skillicons.dev/icons?i=fastapi,css,github,sublime,postman,ubuntu" /><br>
     <img src="https://skillicons.dev/icons?i=django,bootstrap,selenium,git,pycharm" /><br>
 </div>
-<h2 align="center">📕 Atualmente estudando 📘</h2>
+<h2 align="center">📚 Atualmente estudando 📚</h2>
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go,nginx,docker" /><br>
@@ -33,7 +34,7 @@
 </div>
 <div>
     <br>
-    <h2 align="center">A persistência é a chave mestra para as portas do sucesso..</h2>
+    <h2 align="center">A persistência é a chave mestra para as portas do sucesso...</h2>
     
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IgorSantRocha&theme=vue-dark&hide_border=false)<br/><br/><br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSantRocha&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
