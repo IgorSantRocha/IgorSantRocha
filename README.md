@@ -38,5 +38,5 @@
 <hr/>
 <p align='center'>“Qualquer idiota pode escrever um código que um computador possa entender. Bons programadores escrevem códigos que os humanos podem entender.”
 — Martin Fowler</p>
-
+<hr/>
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=IgorSantRocha'></p>
