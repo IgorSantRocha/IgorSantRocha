@@ -5,7 +5,6 @@
 <h3 align="center">Um programador apaixonado por codificação, transformando pensamentos em pixels e funções.</h3>
 
 <div align="center">
-⚡ Curiosidade sobre mim: também sou produtor musical e cantor/compositor!
 
 💬 Me pergunte sobre **Python, SQL Server, VBA... ou outra coisa [aqui](https://github.com/IgorSantRocha/IgorSantRocha)**. Ou ainda:
 
@@ -30,15 +29,15 @@
 <br/>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=go,nginx,docker" /><br>
-
 </div>
 <div>
-    <br>
-    <h2 align="center">A persistência é a chave mestra para as portas do sucesso...</h2>
+   <br>
+   <h2 align="center">A persistência é a chave mestra para as portas do sucesso...</h2>
     
-![](https://github-readme-streak-stats.herokuapp.com/?user=IgorSantRocha&theme=vue-dark&hide_border=false)<br/><br/><br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSantRocha&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
-<br/>
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=IgorSantRocha&theme=vue-dark&hide_border=false)<br/><br/><br/>
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSantRocha&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 <hr/>
-</div>
+<p align='center'>“Qualquer idiota pode escrever um código que um computador possa entender. Bons programadores escrevem códigos que os humanos podem entender.”
+— Martin Fowler</p>
 
+<p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=IgorSantRocha'></p>
