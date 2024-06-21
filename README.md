@@ -23,14 +23,33 @@
 <h2 align="center">⚒️ Linguagens e Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=python,html,postgres,mysql,vscode,linux" /><br>
-    <img src="https://skillicons.dev/icons?i=fastapi,css,github,sublime,postman,ubuntu" /><br>
-    <img src="https://skillicons.dev/icons?i=django,bootstrap,selenium,git,pycharm" /><br>
+    <img src="https://skillicons.dev/icons?i=python" title="Python"/>
+    <img src="https://skillicons.dev/icons?i=html" title="HTML"/>
+    <img src="https://skillicons.dev/icons?i=postgres" title="Postgres"/>
+    <img src="https://skillicons.dev/icons?i=mysql" title="MySQL"/>
+    <img src="https://skillicons.dev/icons?i=vscode" title="VScode"/>
+    <img src="https://skillicons.dev/icons?i=linux" title="linux"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=fastapi" title="FastApi"/>
+    <img src="https://skillicons.dev/icons?i=css" title="CSS"/>
+    <img src="https://skillicons.dev/icons?i=github" title="github"/>
+    <img src="https://skillicons.dev/icons?i=sublime" title="Sublime Text"/>
+    <img src="https://skillicons.dev/icons?i=postman" title="Postman"/>
+    <img src="https://skillicons.dev/icons?i=ubuntu" title="Ubuntu"/>
+    <br>
+    <img src="https://skillicons.dev/icons?i=django" title="Django"/>
+    <img src="https://skillicons.dev/icons?i=bootstrap" title="bootstrap"/>
+    <img src="https://skillicons.dev/icons?i=selenium" title="Selenium"/>
+    <img src="https://skillicons.dev/icons?i=git" title="git"/>
+    <img src="https://skillicons.dev/icons?i=pycharm" title="PyCharm"/>
+    <br>
 </div>
 <h2 align="center">📚 Atualmente estudando 📚</h2>
 <br/>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=go,nginx,docker" /><br>
+    <img src="https://skillicons.dev/icons?i=go" title="Goland (Go)"/>
+    <img src="https://skillicons.dev/icons?i=nginx" title="Nginx"/>
+    <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
 </div>
 <div>
    <h2 align="center">A persistência é a chave mestra para as portas do sucesso...</h2>
