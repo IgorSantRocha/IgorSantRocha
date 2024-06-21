@@ -5,6 +5,8 @@
 <h3 align="center">Um programador apaixonado por codificação, transformando pensamentos em pixels e funções.</h3>
 
 <div align="center">
+    
+💻 Eu sou um desenvolvedor Back-End | Analista de Banco de dados
 
 💬 Me pergunte sobre **Python, SQL Server, VBA... ou outra coisa** aqui:
 
