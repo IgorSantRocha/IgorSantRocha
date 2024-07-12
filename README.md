@@ -20,7 +20,7 @@
 </div>
 ⚡ Curiosidade: Toco Flauta Transversal, Clarinete Alto e Trombone. Também jogo vôlei regularmente.
  
-<h2 align="center">⚒️ Linguagens e Ferramentas ⚒️</h2>
+<h3 align="center">⚒️ Linguagens e Ferramentas ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python" title="Python"/>
@@ -52,12 +52,28 @@
     <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
 </div>
 <div>
-   <h2 align="center">A persistência é a chave mestra para as portas do sucesso...</h2>
+   <h3 align="center">A persistência é a chave mestra para as portas do sucesso...</h2>
     
    ![](https://github-readme-streak-stats.herokuapp.com/?user=IgorSantRocha&theme=vue-dark&hide_border=false)<br/><br/><br/>
    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSantRocha&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 <hr/>
-<p align='center'>“Qualquer idiota pode escrever um código que um computador possa entender. Bons programadores escrevem códigos que os humanos podem entender.”
-— Martin Fowler</p>
-<hr/>
+<div align="center" style="position: relative; width: 100%; height: 150px;">
+  <div style="position: absolute; width: 100%; height: 100%; animation: fade 20s infinite;">
+    <p>“Qualquer idiota pode escrever um código que um computador possa entender. Bons programadores escrevem códigos que os humanos podem entender.” — Martin Fowler</p>
+    <hr/>
+    <p>“Primeiro, resolva o problema. Então, escreva o código.” — John Johnson</p>
+    <hr/>
+    <p>“Um bom programador é alguém que olha para os dois lados antes de atravessar uma rua de mão única.” — Doug Linder</p>
+    <hr/>
+    <p>“A simplicidade é a alma da eficiência.” — Austin Freeman</p>
+    <hr/>
+    <p>“Antes de programar, assegure-se de que é necessário. Se for, assegure-se de que entendeu o problema. Depois, assegure-se de que a sua solução é a melhor possível.” — Kent Beck</p>
+    <hr/>
+    <p>“Código é como humor. Quando você tem que explicar, é porque não é tão bom.” — Cory House</p>
+    <hr/>
+    <p>“Otimização prematura é a raiz de todo mal.” — Donald Knuth</p>
+    <hr/>
+  </div>
+</div>
+
 <p align='center'><img src='https://visitor-badge.laobi.icu/badge?page_id=IgorSantRocha'></p>
