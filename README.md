@@ -44,7 +44,7 @@
     <img src="https://skillicons.dev/icons?i=pycharm" title="PyCharm"/>
     <br>
 </div>
-<h2 align="center">📚 Atualmente estudando 📚</h2>
+<h3 align="center">📚 Atualmente estudando 📚</h3>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=go" title="Goland (Go)"/>
