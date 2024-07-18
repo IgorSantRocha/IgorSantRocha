@@ -54,7 +54,7 @@
 <div>
    <h3 align="center">A persistência é a chave mestra para as portas do sucesso...</h3>
     
-   ![](https://github-readme-streak-stats.herokuapp.com/?user=IgorSantRocha&theme=vue-dark&hide_border=false)<br/><br/><br/>
+   ![](https://github-readme-streak-stats.herokuapp.com/?user=IgorSantRocha&theme=vue-dark&hide_border=false)<br/><br/>
    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSantRocha&theme=vue-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
 <hr/>
 <div align="center" style="position: relative; width: 100%; height: 150px;">
