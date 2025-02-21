@@ -55,9 +55,9 @@
    <h3 align="center">A persistência é a chave mestra para as portas do sucesso...</h3>
    <!--![](https://github-readme-streak-stats.herokuapp.com/?user=IgorSantRocha&theme=github_dark&hide_border=false)<br/><br/>-->
     
-   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSantRocha&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br/><br/>
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IgorSantRocha&theme=github_dark&utcOffset=-3)
-   
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSantRocha&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IgorSantRocha&theme=github_dark&utcOffset=-3&count_private=true)
+   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorSantRocha&theme=github_dark&count_private=true)
    
 <hr/>
 <div align="center" style="position: relative; width: 100%; height: 150px;">
