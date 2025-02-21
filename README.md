@@ -2,7 +2,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Cambria&weight=500&size=31&duration=1000&pause=1000&color=199EFF&center=true&random=false&width=435&lines=Hello+world+%F0%9F%91%8B;Eu+sou+Igor.;%C3%89+um+prazer+te-lo(a)+por+aqui!" alt="Typing SVG" />
 </h1>
 
-<h3 align="center">Um programador apaixonado por codificação, transformando pensamentos em pixels e funções.</h3>
+<h2 align="center">Um programador apaixonado por codificação, transformando pensamentos em pixels e funções.</h2>
 
 <div align="center">
     
@@ -20,7 +20,8 @@
 </div>
 ⚡ Curiosidade: Toco Flauta Transversal, Clarinete Alto e Trombone. Também jogo vôlei regularmente.
  
-<h3 align="center">⚒️ Linguagens e Ferramentas ⚒️</h2>
+## ⚒️ Linguagens e Ferramentas ⚒️
+
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=python" title="Python"/>
@@ -44,7 +45,9 @@
     <img src="https://skillicons.dev/icons?i=pycharm" title="PyCharm"/>
     <br>
 </div>
-<h3 align="center">📚 Atualmente estudando 📚</h3>
+
+## 📚 Atualmente estudando 📚
+
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=go" title="Goland (Go)"/>
@@ -52,12 +55,15 @@
     <img src="https://skillicons.dev/icons?i=docker" title="Docker"/>
 </div>
 <div>
-   <h3 align="center">A persistência é a chave mestra para as portas do sucesso...</h3>
+    
+   ## A persistência é a chave mestra para as portas do sucesso...
+
    <!--![](https://github-readme-streak-stats.herokuapp.com/?user=IgorSantRocha&theme=github_dark&hide_border=false)<br/><br/>-->
     
    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSantRocha&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IgorSantRocha&theme=github_dark&utcOffset=-3&count_private=true)
-   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IgorSantRocha&theme=github_dark&count_private=true)
+## 🏆 GitHub Trophies
+   
+![](https://github-profile-trophy.vercel.app/?username=IgorSantRocha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
    
 <hr/>
 <div align="center" style="position: relative; width: 100%; height: 150px;">
