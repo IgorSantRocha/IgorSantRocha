@@ -56,7 +56,7 @@
    <!--![](https://github-readme-streak-stats.herokuapp.com/?user=IgorSantRocha&theme=github_dark&hide_border=false)<br/><br/>-->
     
    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSantRocha&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)<br/><br/>
-   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IgorSantRocha&theme=github_dark&utcOffset=8)
+   ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IgorSantRocha&theme=github_dark&utcOffset=-3)
    
    
 <hr/>
