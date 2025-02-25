@@ -58,13 +58,9 @@
     
    ## A persistência é a chave mestra para as portas do sucesso...
 
-   <!--![](https://github-readme-streak-stats.herokuapp.com/?user=IgorSantRocha&theme=github_dark&hide_border=false)<br/><br/>-->
-    
    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSantRocha&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/><br/>
-## 🏆 GitHub Trophies
-   
-![](https://github-profile-trophy.vercel.app/?username=IgorSantRocha&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-   
+<!--## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=IgorSantRocha&theme=radical&no-frame=false&no-bg=true&margin-w=4)-->
 <hr/>
 <div align="center" style="position: relative; width: 100%; height: 150px;">
   <div style="position: absolute; width: 100%; height: 100%; animation: fade 20s infinite;">
